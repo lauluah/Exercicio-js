@@ -1,6 +1,6 @@
 # Sistema de Contas Bancárias em JavaScript: Utilizando Conceitos Fundamentais da Linguagem
 
-Este é um exercício simples de um sistema de contas bancárias desenvolvido em JavaScript. Ele demonstra o uso de conceitos fundamentais da linguagem, como funções construtoras, prototype, herança prototípica, chamada para o construtor pai, polimorfismo e instanciação de objetos.
+Este é um exercício simples de um sistema de contas bancárias desenvolvido em JavaScript. Utilizando os conceitos fundamentais da linguagem, como funções construtoras, prototype, herança prototípica, chamada para o construtor pai, polimorfismo e instanciação de objetos.
 
 ## Descrição do exercício 
 
